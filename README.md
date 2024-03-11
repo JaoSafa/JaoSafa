@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Estudante<br>👯Quero notas<br>🤝 Esforço<br>🌱 Progamar em github<br>💬 Nem te conto<br>⚡ Eu sou burro
-再见🤫🧏🏻‍♂️再见
+🔭 Estudante<br>👯Quero notas<br>🤝 Esforço<br>🌱 Progamar em github<br>💬 Nem te conto<br>⚡ Eu sou burro<br>再见🤫🧏🏻‍♂️再见<br>
 
 
 # 💻 Tech Stack:
